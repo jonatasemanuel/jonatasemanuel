@@ -1,8 +1,7 @@
- Hi, I’m @jonatasemanuel<br>
- I’m interested in back- end, 
- currently learning python and 
- looking to collaborate on technology team.
- jonatassilvaemanuel@gmail.com
+ <h2>Hi, I’m @jonatasemanuel</h2><br>
+ <h5>I'm interested in back-end, currently learning python<br> and looking to collaborate in a technology team.</h5><br>
+ <a href=mailto:jonatassilvaemanuel@gmail.com?subject="link HTML">E- mail</a>
+
 
 <div style="display: inline_block"><br>
  <img align="center" alt="jo-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
