@@ -1,5 +1,5 @@
  <h2>Hi, I’m @jonatasemanuel</h2><br>
- <h6>I'm interested in back-end, currently learning python<br> and looking to collaborate in a technology team.</h6><br>
+ <p>I'm interested in back-end, currently learning python<br> and looking to collaborate in a technology team.</p><br>
  <a href=mailto:jonatassilvaemanuel@gmail.com?subject="link HTML">E- mail</a>
 
 
