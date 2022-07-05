@@ -1,6 +1,6 @@
  <h2>Hi, I’m @jonatasemanuel</h2><br>
  <p>I'm interested in back-end, currently learning python and looking to collaborate in a technology team.</p><br>
- <a href=mailto:jonatassilvaemanuel@gmail.com?subject="link HTML">E- mail</a>
+ <a href=mailto:jonatassilvaemanuel@gmail.com?subject=Contact HTML">E- mail</a>
 
 
 <div style="display: inline_block"><br>
