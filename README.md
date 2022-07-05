@@ -1,7 +1,8 @@
  <h2>Hi, my name is Jonatas Silva.</h2><br>
  
  <p>
-    I'm a software engineering student with intermediate knowledge in Python and basics of Linux, Object Orientation,<br>at the moment i'm             practicing algorithms and data structure.
+    I'm a software engineering student with intermediate knowledge in Python and basics of Linux,<br>
+    Object Orientation and Git, at the moment i'm practicing algorithms and data structure to strengthen the foundations.
  </p>
  <a href=mailto:jonatassilvaemanuel@gmail.com?subject=Contact HTML">E- mail</a>
 
