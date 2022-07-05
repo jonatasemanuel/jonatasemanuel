@@ -1,5 +1,8 @@
- <h2>Hi, I’m @jonatasemanuel</h2><br>
- <p>I'm interested in back-end, currently learning python and looking to collaborate in a technology team.</p><br>
+ <h2>Hi, my name is Jonatas Silva.</h2><br>
+ 
+ <p>
+    I'm a software engineering student with intermediate knowledge in Python and basic knowledge of Linux and object orientation,<br>at the moment i'm             practicing algorithms and data structure.
+ </p>
  <a href=mailto:jonatassilvaemanuel@gmail.com?subject=Contact HTML">E- mail</a>
 
 
@@ -17,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jonatasemanuell/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonatasemanuell/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jonatello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jonatello" height="30" width="40" /></a>
 </p>
 
 
