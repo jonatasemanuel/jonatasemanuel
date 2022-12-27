@@ -1,4 +1,4 @@
- <strong><h2>Hi, my name is Jonatas Silva.</h2></strong><br>
+ <strong><h1>Hi, my name is Jonatas Silva.</h1></strong><br>
  
  <p>
     I'm a software engineering student with intermediate knowledge in Python and basics of Linux,<br>
