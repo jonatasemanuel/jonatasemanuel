@@ -1,4 +1,4 @@
- <strong><h1>Hi, my name is Jonatas Silva.</h1></strong><br>
+ <b><h1>Hi, my name is Jonatas Silva.</h1></b><br>
  
  <p>
     I'm a software engineering student with intermediate knowledge in Python and basics of Linux,<br>
@@ -8,8 +8,9 @@
 
 
 <div style="display: inline_block"><br>
+ /*
  <img align="center" alt="jo-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img align="center" alt="jo-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img align="center" alt="jo-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />*/
           
           
           
