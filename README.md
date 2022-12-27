@@ -6,14 +6,10 @@
  </p>
  <a href=mailto:jonatassilvaemanuel@gmail.com?subject=Contact HTML">E- mail</a>
 
-
 <div style="display: inline_block"><br>
 <!--<img align="center" alt="jo-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="jo-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />-->     
           
-          
-          
- 
 </div>
 
 <h3 align="left">Connect with me:</h3>
