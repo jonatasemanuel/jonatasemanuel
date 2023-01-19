@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Prazer, meu nome é Jonatas Emanuel, no momento praticando <strong>desenvolvimento web back- end</strong>
-  utilizando Python e Django framework e cusando o 3º Semestre de graduação em engenharia de software.<br>
+  utilizando Python e Django framework e cusando o 3º Semestre de graduação em engenharia de software.
 </p>
 
 <p align="left">
