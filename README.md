@@ -1,7 +1,7 @@
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Prazer, meu nome é Jonatas Emanuel, no momento praticando <strong>desenvolvimento web back- end</strong><br>
+  Prazer, meu nome é Jonatas Emanuel, no momento praticando <strong>desenvolvimento web back- end</strong>
   utilizando Python e Django framework e cusando o 3º Semestre de graduação em engenharia de software.<br>
 </p>
 
