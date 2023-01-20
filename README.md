@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Prazer, meu nome é Jonatas Emanuel, no momentos estou praticando <strong>Desenvolvimento Web Back- End</strong>
-utilizando Python e Django framework, e cusando o 3º Semestre de graduação em engenharia de software.
+utilizando Python e Django framework, e cusando o 3º Semestre da graduação em engenharia de software.
 </p>
 
 <p align="left">
@@ -18,10 +18,10 @@ utilizando Python e Django framework, e cusando o 3º Semestre de graduação em
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZdBdQhpnMKgBCmkbmVMqQSDNXcMzhCttDVhhHBmLkPvPdzglvrmZjFxNgvHDGVwTHSmRg" target="blank" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZdBdQhpnMKgBCmkbmVMqQSDNXcMzhCttDVhhHBmLkPvPdzglvrmZjFxNgvHDGVwTHSmRg" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/jonatasemanuell/" target="blank" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/jonatasemanuell/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <!--<a href="#" alt="WhatsApp">
@@ -30,6 +30,6 @@ utilizando Python e Django framework, e cusando o 3º Semestre de graduação em
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>-->
 
-  <a href="https://www.instagram.com/jonatasessilva/" target="blank" alt="Instagram">
+  <a href="https://www.instagram.com/jonatasessilva/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p> 
