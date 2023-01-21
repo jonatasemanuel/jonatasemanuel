@@ -1,8 +1,7 @@
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!--<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 
-<p align="left"> 
-  Prazer, meu nome é Jonatas Emanuel, no momentos estou praticando <strong>Desenvolvimento Web Back- End</strong>
-utilizando Python e Django framework, e cusando o 3º Semestre da graduação em engenharia de software.
+<p align="left">Praticante de Python a quase um ano, no momentos focado no <strong>Desenvolvimento Web Back- End</strong> utilizando Django framework, recentemente realizei os projetos disponiveis no livro <i>Python Crash Course</i> onde criamos um jogo estilo arcade com Pygame, assim como desenvolvemos uma aplicação web com Django para fazer registros de estudos, utilizando SQlite como banco de dados e Heroku como plataforma web onde pode encontrada no repositório <strong>learning_log</strong>.<br>Cusando o 3º Semestre de Engenharia de Software.
+  
 </p>
 
 <p align="left">
