@@ -1,6 +1,6 @@
 <!--<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 
-<p align="left">Praticante de Python a quase um ano, no momentos focado no <strong>Desenvolvimento Web Back- End</strong> utilizando Django framework, recentemente realizei os projetos disponiveis no livro <i>Python Crash Course</i> onde criamos um jogo estilo arcade com Pygame, assim como desenvolvemos uma aplicação web com Django para fazer registros de estudos, utilizando SQlite como banco de dados e Heroku como plataforma web onde pode encontrada no repositório <strong>learning_log</strong>.<br>Cusando o 3º Semestre de Engenharia de Software.
+<p align="left">Praticante de Python a quase um ano, no momentos focado no <strong>Desenvolvimento Web Back- End</strong> utilizando Django framework, recentemente realizei os projetos disponiveis no livro <i>Python Crash Course</i> onde criamos um jogo estilo arcade com Pygame, assim como desenvolvemos uma aplicação web com Django para fazer registros de estudos, utilizando SQlite como banco de dados e Heroku como plataforma web.
   
 </p>
 
@@ -11,6 +11,11 @@
 <p align="left">
   💼 Ferramentas: <strong>Linux, Git.</strong>
 </p>
+
+<!--<h4 align="center">Top langs:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>-->
+
 
 <p align="left">
   💌 Onde me encontrar: ⤵️
