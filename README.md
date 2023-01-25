@@ -12,9 +12,9 @@
   💼 Ferramentas: <strong>Linux, Git.</strong>
 </p>
 
-<!--<h4 align="center">Top langs:</h4>
+<!--<h4 align="right">Top langs:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>-->
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasemanuel&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>-->
 
 
 <p align="left">
