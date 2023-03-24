@@ -5,10 +5,11 @@ Olá me chamo Jonatas Emanuel, moro no interior de São Paulo, Brasil.<br>
 No momento direcionado para pratica de desenvolvimento Back- end utilizando Python e Django na construção de API's, cursando o 2º ano de engenharia de software e buscando minha primeira oportunidade na área.
 </p>
 
+<h2></h2>
+
 <p align="left">
   🦄 Linguagens: <strong>Python, Django, SQL.</strong>
 </p>
-
 <p align="left">
   💼 Ferramentas: <strong>Linux, Git.</strong>
 </p>
@@ -17,8 +18,8 @@ No momento direcionado para pratica de desenvolvimento Back- end utilizando Pyth
 
 <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasemanuel&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>-->
 
-
 <p align="left">
+  <h1></h1>
   💌 Onde me encontrar: ⤵️
 </p>
 
