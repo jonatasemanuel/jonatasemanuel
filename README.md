@@ -1,7 +1,8 @@
 <!--<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 
-<p align="left">Praticante de Python a quase um ano, no momentos focado no <strong>Desenvolvimento Web Back- End</strong> utilizando Django framework, recentemente realizei os projetos disponiveis no livro <i>Python Crash Course</i> onde criamos um jogo estilo arcade com Pygame, assim como desenvolvemos uma aplicação web com Django para fazer registros de estudos, utilizando SQlite como banco de dados e Heroku como plataforma web.
-  
+<p align="left">
+Olá me chamo Jonatas Emanuel, moro no interior de São Paulo, Brasil.<br>
+No momento direcionado para pratica de desenvolvimento Back- end utilizando Python e Django na construção de API's, cursando o 2º ano de engenharia de software e buscando minha primeira oportunidade na área.
 </p>
 
 <p align="left">
