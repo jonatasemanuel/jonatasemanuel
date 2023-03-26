@@ -1,7 +1,7 @@
 <!--<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 
 <p align="left">
-Meu nome é Jonatas Emanuel e sou residente do interior de São Paulo, Brasil. Atualmente, estou focado em desenvolvimento web Back-end usando Python e Django para a construção de API's. Estou no segundo ano de Engenharia de Software e estou buscando minha primeira oportunidade de emprego na área.
+Meu nome é Jonatas Emanuel e sou residente do interior de São Paulo, Brasil. Atualmente, estou focado em desenvolvimento web Back-end usando Python e Django para a construção de API's. Estou no segundo ano de Engenharia de Software e buscando minha primeira oportunidade de emprego na área.
 </p>
 
 <h2></h2>
