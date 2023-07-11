@@ -7,10 +7,16 @@ Meu nome é Jonatas Emanuel, sou residente do interior de São Paulo, Brasil. At
 <h2></h2>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, Django, SQL.</strong>
+ <h2> 🦄 Stack</h2><strong>
+    <li>Python</li>
+    <li>Django</li>
+    <li>SQL</li></strong>
 </p>
 <p align="left">
-  💼 Ferramentas: <strong>Linux, Git.</strong>
+  <h2>💼 Ferramentas</h2><strong>
+    <li>Linux</li>
+    <li>Git</li>
+    <li>Docker</li></strong>
 </p>
 
 <!--<h4 align="right">Top langs:</h4>
@@ -18,8 +24,7 @@ Meu nome é Jonatas Emanuel, sou residente do interior de São Paulo, Brasil. At
 <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasemanuel&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>-->
 
 <p align="left">
-  <h1></h1>
-  💌 Onde me encontrar: ⤵️
+  <h5>💌 Onde me encontrar: ⤵️</h5>
 </p>
 
 <p align="left">
