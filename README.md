@@ -13,7 +13,7 @@ Meu nome é Jonatas Emanuel, sou residente do interior de São Paulo, Brasil. At
     <li>SQL</li></strong>
 </p>
 <p align="left">
-  <h2>💼 Ferramentas</h2><strong>
+  <h2>💼 Tools</h2><strong>
     <li>Linux</li>
     <li>Git</li>
     <li>Docker</li></strong>
