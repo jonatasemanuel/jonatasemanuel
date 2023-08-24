@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/FHSANLwBWD4AAAAi/linux-linux-power.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Linux Power">
 
-<h2> 🐧 Jonatas Silva</h2>
+<h2> >  Jonatas Silva</h2>
     <p align="left">
     Python Back-end Developer. In my personal projects, I have already used Django, Flask, and FastAPI with SQLAlchemy to create REST APIs, 
     as well as Docker for practicing microservices.<br>
