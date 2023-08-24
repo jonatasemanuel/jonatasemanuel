@@ -1,10 +1,10 @@
 <!--<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 <h2> 🐧 Jonatas Silva</h2>
-<p align="left">
-Python Back-end Developer. In my personal projects, I have already used Django, Flask, and FastAPI with SQLAlchemy to create REST APIs, 
-as well as Docker for practicing microservices.<br>
-Currently, I am enrolled in a degree program in Software Engineering and Information Security to enhance my skills in creating secure applications (AppSec).
-</p>
+    <p align="left">
+    Python Back-end Developer. In my personal projects, I have already used Django, Flask, and FastAPI with SQLAlchemy to create REST APIs, 
+    as well as Docker for practicing microservices.<br>
+    Currently, I am enrolled in a degree program in Software Engineering and Information Security to enhance my skills in creating secure applications (AppSec).
+    </p>
 
 
 <!--![](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -25,19 +25,6 @@ Currently, I am enrolled in a degree program in Software Engineering and Informa
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-<!--<h2>stack</h2><strong>
-<p align="left">
-    <li>Python</li>
-    <li>Django</li>
-    <li>SQL</li></strong>
-</p>
-
-<h2>tools</h2><strong>
-<p align="left">
-    <li>Linux</li>
-    <li>Git</li>
-    <li>Docker</li></strong>
-</p>-->
 
 <!--<h4 align="right">Top langs:</h4>
 
@@ -53,12 +40,6 @@ Currently, I am enrolled in a degree program in Software Engineering and Informa
 
   <a href="https://www.linkedin.com/in/jonatasemanuell/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <!--<a href="https://twitter.com/joonatello" target="_blank" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=LINK-DO-SEU-TWITTER"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>-->
 
   <a href="https://www.instagram.com/jonatasessilva/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
