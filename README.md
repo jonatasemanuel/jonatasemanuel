@@ -6,7 +6,7 @@
     <p align="left">
     Python Back-end Developer. In my personal projects, I have already used Django, Flask, and FastAPI with SQLAlchemy to create REST APIs, 
     as well as Docker for practicing microservices.<br>
-    Currently, I am enrolled in a degree program in Software Engineering and Information Security to enhance my skills in creating secure applications (AppSec).
+    Currently, I am enrolled in a degree program in Software Engineering and Information Security to enhance my skills in creating secure applications.
     </p>
 
 
