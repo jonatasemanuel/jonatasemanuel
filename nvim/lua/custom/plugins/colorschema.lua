@@ -6,3 +6,5 @@ return {
     require 'nordic'.load()
   end
 }
+
+-- { "ellisonleao/gruvbox.nvim" },

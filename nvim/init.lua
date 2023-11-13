@@ -142,10 +142,14 @@ require('lazy').setup({
     },
   },
 
-  --  { "ellisonleao/gruvbox.nvim" },
 
-  -- Configure LazyVim to load gruvbox
-
+  -- Configure LazyVim to load some theme from lua/custom/colorscheme
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "nordic",
+    },
+  },
 
   {
     -- Set lualine as statusline
@@ -216,16 +220,8 @@ require('lazy').setup({
   --
   --    For additional information see: https://github.com/folke/lazy.nvim#-structuring-your-plugins
   { import = 'custom.plugins' },
-}, { {
-  "NeogitOrg/neogit",
-  dependencies = {
-    "nvim-lua/plenary.nvim",         -- required
-    "nvim-telescope/telescope.nvim", -- optional
-    "sindrets/diffview.nvim",        -- optional
-    "ibhagwan/fzf-lua",              -- optional
-  },
-  config = true
-} })
+}, {}
+)
 
 -- [[ Setting options ]]
 -- See `:help vim.o`
