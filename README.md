@@ -4,7 +4,7 @@
 
 <h2>Jonatas Silva</h2>
     <p align="left">
-        work in progress
+        - Back-end Developer
     <!--Python Back-end Developer. In my personal projects, I have already used Django, Flask, and FastAPI with SQLAlchemy to create REST APIs, 
     as well as Docker for containers practicing.<br>
     Currently, I am enrolled in a degree program in Software Engineering and Information Security to enhance my skills in creating secure applications.-->
