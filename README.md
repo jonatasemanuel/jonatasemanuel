@@ -8,6 +8,7 @@
          <li>Linux and Go enthusiast</li>
 <h4 align="left">Stack:</h4>
         <li>Go</li>
+        <li>Docker</li>
         <li>SQL</li>
         <li>Shell Script</li>
 
