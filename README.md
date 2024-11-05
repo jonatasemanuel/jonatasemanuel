@@ -6,12 +6,16 @@
     <p align="left">
          <li>Back-end Developer</li>
          <li>Linux and Go enthusiast</li>
-<h4 align="left">Top langs:</h4>
+<h4 align="left">Stack:</h4>
+        <li>Go</li>
+        <li>SQL</li>
+        <li>Shell Script</li>
 
-    <!--Python Back-end Developer. In my personal projects, I have already used Django, Flask, and FastAPI with SQLAlchemy to create REST APIs, 
+
+<!--Python Back-end Developer. In my personal projects, I have already used Django, Flask, and FastAPI with SQLAlchemy to create REST APIs, 
     as well as Docker for containers practicing.<br>
-    Currently, I am enrolled in a degree program in Software Engineering and Information Security to enhance my skills in creating secure applications.-->
-    </p>
+    Currently, I am enrolled in a degree program in Software Engineering and Information Security to enhance my skills in creating secure applications
+    </p>.-->
 
 
 <!--![](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
