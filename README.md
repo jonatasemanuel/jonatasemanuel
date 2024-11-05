@@ -1,4 +1,4 @@
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 <img src="https://media.tenor.com/FHSANLwBWD4AAAAi/linux-linux-power.gif" min-width="150px" max-width="150px" width="150px" align="right" alt="Linux Power">
 
