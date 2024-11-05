@@ -11,6 +11,7 @@
         <li>Docker</li>
         <li>SQL</li>
         <li>Shell Script</li>
+        <li>Python</li>
 
 
 <!--Python Back-end Developer. In my personal projects, I have already used Django, Flask, and FastAPI with SQLAlchemy to create REST APIs, 
