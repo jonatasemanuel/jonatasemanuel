@@ -2,11 +2,10 @@
 
 <img src="https://media.tenor.com/FHSANLwBWD4AAAAi/linux-linux-power.gif" min-width="150px" max-width="150px" width="150px" align="right" alt="Linux Power">
 
-<h2>Jonatas Silva</h2>
+<h1>Jonatas Silva</h1>
     <p align="left">
-         <li>Back-end Developer</li>
-         <li>Linux and Go enthusiast</li>
-<h4 align="left">Stack:</h4>
+         <h3>Back-end Developer | Linux and Go enthusiast</h3>
+<h4 align="left"><i>Stack:</i></h4>
         <li>Go</li>
         <li>Docker</li>
         <li>SQL</li>
