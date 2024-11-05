@@ -6,6 +6,8 @@
     <p align="left">
          <li>Back-end Developer</li>
          <li>Linux and Go enthusiast</li>
+<h4 align="left">Top langs:</h4>
+
     <!--Python Back-end Developer. In my personal projects, I have already used Django, Flask, and FastAPI with SQLAlchemy to create REST APIs, 
     as well as Docker for containers practicing.<br>
     Currently, I am enrolled in a degree program in Software Engineering and Information Security to enhance my skills in creating secure applications.-->
@@ -24,9 +26,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)-->
 
-<h4 align="left">Top langs:</h4>
+<!--<h4 align="left">Top langs:</h4>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasemanuel&langs_count=10&theme=gruvbox&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasemanuel&langs_count=10&theme=gruvbox&layout=compact" alt="AnhellO :: Top Langs" /></p>-->
 
 <p align="left">
   <h4>📬 Find me at</h4>
