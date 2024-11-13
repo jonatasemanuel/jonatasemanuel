@@ -1,3 +1,0 @@
-[submodule "minimal-tmux-status"]
-	path = minimal-tmux-status
-	url = https://git::@github.com/niksingh710/minimal-tmux-status
